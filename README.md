@@ -1,4 +1,4 @@
 hello-world
 ===========
 
-Hello World on GitHub Guides - https://guides.github.com/activities/hello-world/
+I'm a developer. I like bitcoin and steak.
